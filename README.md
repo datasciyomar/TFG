@@ -58,8 +58,7 @@ Puedes consultar el notebook completo en GitHub:
 [🔗 Ver notebook](./TFG_OmarDallal_AhmadYaman.ipynb)
 
 También puedes visualizarlo en [nbviewer](https://nbviewer.org/):  
-[🔗 Visualizar en nbviewer](https://nbviewer.org/github/tu_usuario/tu_repositorio/blob/main/TFG_OmarDallal_AhmadYaman.ipynb)  
-*(Reemplaza `tu_usuario/tu_repositorio` por tu usuario y nombre real del repositorio)*
+[🔗 Visualizar en nbviewer](https://nbviewer.org/github/datasciyomar/TFG/blob/main/TFG_OmarDallal_AhmadYaman.ipynb)  
 
 ## 📄 Licencia
 
@@ -67,5 +66,5 @@ Este proyecto está bajo la licencia [Creative Commons BY-NC-ND 3.0 ES](http://c
 
 ---
 
-*Trabajo Final de Grado presentado en la Universitat Oberta de Catalunya (UOC), curso 2024–2025.*  
+*Trabajo Final de Grado presentado en la Universitat Oberta de Catalunya (UOC), curso 2024–2025/2.*  
 Tutor: Xavier Florit Medina
