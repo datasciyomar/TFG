@@ -57,8 +57,6 @@ El notebook está organizado en las siguientes secciones:
 Puedes consultar el notebook completo en GitHub:  
 [🔗 Ver notebook](./TFG_OmarDallal_AhmadYaman.ipynb)
 
-También puedes visualizarlo en [nbviewer](https://nbviewer.org/):  
-[🔗 Visualizar en nbviewer](https://nbviewer.org/github/datasciyomar/TFG/TFG_OmarDallal_AhmadYaman.ipynb)  
 
 ## 📄 Licencia
 
